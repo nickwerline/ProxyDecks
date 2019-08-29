@@ -1,0 +1,86 @@
+//play-1
+
+
+1 Towa (ex06-29)
+
+
+
+//deck-1
+
+
+3 Son Goku, the Adventure Begins (bt6-107)
+
+
+2 Supreme Kai of Time, Time Disruptor (ex06-31)
+
+
+3 Super Saiyan Trunks (bt7-102)
+
+
+4 Vegeta, Time Regulator (p-142)
+
+
+2 Dark Absorption Mira (bt4-110)
+
+
+3 Dimension Support Trunks (bt4-102)
+
+
+4 Relentless Destruction Mira (bt3-117)
+
+
+2 Trunks, Time Regulator (bt7-103)
+
+
+3 Time Ruler Towa (ex02-04)
+
+
+3 Umbral Invitation Towa (bt4-111)
+
+
+2 Dimensional Banisher Fu (bt4-118)
+
+
+2 Masked Saiyan, the Mysterious Warrior (ex02-02)
+
+
+4 Mira, Self Reformation (ex06-33)
+
+
+4 Mira, Creator Absorbed (bt4-108)
+
+
+4 Supreme kai of Time, World's protector (bt3-113)
+
+
+2 Power Burst (bt5-115)
+
+
+3 Four-Star Ball (bt6-117)
+
+
+
+//sideboard-1
+
+
+3 Dark Power Black Masked Saiyan (bt5-112)
+
+
+2 Dende, New to the Job (bt5-109)
+
+
+2 Kami, Global Unifier (bt5-108)
+
+
+2 No Escape Son Goku (tb3-065)
+
+
+2 Power Burst (bt5-115)
+
+
+2 Tokitoki, Time Creator (bt4-119)
+
+
+2 Trunks, Power Overseeing Time (bt3-111)
+
+
