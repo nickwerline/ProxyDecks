@@ -31,7 +31,9 @@ Run `python proxy.py`
 
 Navigate to the top level ProxyDecks folder
 
-Run `proxy\proxy.exe`
+Run `.\proxy\proxy.exe`
+
+![how_to_run](how_to_run.gif)
 
 ## Options
 
