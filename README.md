@@ -9,7 +9,7 @@ Please share your improvements so everyone can benefit! Feel free to post pull r
 
 ## How to run
 
-Download the repository. Easiest method is probably downloading GitHub for Desktop for a graphical interface to pull the files. Or you can download the repo as a zip file, but if there are changes you will have to redownload the entire folder.
+Download the repository. Easiest method is probably downloading GitHub for Desktop for a graphical interface to pull the files. Use File > Clone Repository and input the GitHub url to download a copy to your computer. Alternatively, you can download the repo as a zip file, but if there are changes you will have to redownload the entire folder.
 
 Write your cards into CardList.txt, there is an example deck populated. The format reads dbs-decks.com's export to txt format, so you can just copy paste that file. The only text that matters is a number followed by a card ID on the same line. All the other text, such as the name of the card, is ignored and can be left out. A minimally formatted input file will be generated when you run the program, CardList_Formatted.txt, that can also be pasted into CardList.txt for input. Lastly, a pdf of your cards, Cards.pdf, will be written to the folder.
 
